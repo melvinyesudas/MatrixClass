@@ -60,3 +60,6 @@ int main() {
     return 0;
 }
 ```
+
+### Output
+![output](https://github.com/melvinyesudas/MatrixClass/blob/main/docs/output.PNG)
