@@ -136,7 +136,7 @@ int main() {
     MyVector v, AV;
     v.push_back(2);
     v.push_back(1);
-    // v.push_back(3);
+    v.push_back(3);
     std::cout << std::endl << "Multiplication of a matrix with vector \n \nA * Vector:";
     AV = A * v;
     AV.printVec();
