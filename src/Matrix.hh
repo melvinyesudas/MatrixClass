@@ -1,5 +1,5 @@
 /*
- * Matrix.cc
+ * Matrix.hh
  *
  * Author: Melvin Yesudas
  * Email:  melvinyesudas@gmail.com
@@ -21,7 +21,7 @@
  * @brief To store elements of a Matrix
  */
 struct Mats {
-    int raws, cols;
+    int rows, cols;
     std::vector<std::vector<int> > vec;
 };
 
